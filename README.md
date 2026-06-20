@@ -64,7 +64,6 @@ Used **OWASP ZAP** to:
 * Missing Content Security Policy (CSP)
 * Missing X-Frame-Options (Clickjacking risk)
 * Missing X-Content-Type-Options
-* Information Disclosure via `X-Powered-By` header
 * CORS Misconfiguration
 * No Brute Force Protection
 
@@ -76,18 +75,6 @@ Used **OWASP ZAP** to:
 * Password rules are implemented
 * XSS attacks were unsuccessful
 * SQL Injection attempts failed
-
----
-
-## 📸 Screenshots
-
-> 📌 Add your screenshots below for better visualization
-
-* Application running on localhost
-* XSS testing attempts
-* SQL Injection testing
-* Validation error handling
-* OWASP ZAP scan results
 
 ---
 
@@ -140,6 +127,7 @@ Completed as part of a **Cybersecurity Internship Program**, focused on practica
 ## 📢 Connect With Me
 
 Let’s connect and talk about **Cybersecurity, Web Security, and Ethical Hacking** 🔐
+www.linkedin.com/in/nimrah-shafiq-b965342b2
 
 ---
 
@@ -157,23 +145,3 @@ If you found this project helpful:
 `#CyberSecurity` `#WebSecurity` `#OWASP` `#EthicalHacking` `#NodeJS` `#InfoSec` `#SecurityTesting`
 
 ---
-
-# 🔥 WHY THIS VERSION IS BETTER
-
-✔ Looks professional to recruiters
-✔ Clean and structured
-✔ Uses badges (very important visually)
-✔ Strong wording (not basic student style)
-✔ Portfolio-ready
-
----
-
-# 🚀 Want next level?
-
-I can still upgrade you to:
-
-✔ 🔥 Portfolio description (for CV)
-✔ 🎯 Internship interview answers based on this project
-✔ 📊 PPT for presentation
-
-Just tell me 👍
